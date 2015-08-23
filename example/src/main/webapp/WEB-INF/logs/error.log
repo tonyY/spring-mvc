@@ -1,4 +1,1 @@
-2015-08-23 00:00:19 [ main:953 ] - [ ERROR ] maxIdle is deprecated
-2015-08-23 00:00:19 [ main:1036 ] - [ ERROR ] testWhileIdle is true, validationQuery not set
-2015-08-23 00:16:07 [ main:576 ] - [ ERROR ] maxIdle is deprecated
-2015-08-23 00:16:07 [ main:643 ] - [ ERROR ] testWhileIdle is true, validationQuery not set
+
